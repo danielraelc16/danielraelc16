@@ -46,7 +46,7 @@ Here is my Portfolio as a Data Analyst, feel free to check it out!
 * Cluster Analysis
 
 ### Code example:
-1. [E-commerce Public Dataset](https://github.com/DWply/Dharma-Wangsa-Data-Analytics-Portfolio/blob/5ee419b92ff6df15aa57794deb342f3ab5d08154/Ecommerce_Exploratory_Data_Analysis_Portfolio.ipynb)
+1. [Bank Promotion EDA and Clustering Analysis](https://github.com/danielraelc16/danielraelc16/blob/76cd474bc67adedbfe69b550057e851133e13ef2/Revo%20Bank%20Promotion%20Dataset.ipynb)
 
 ## Dataviz using Tableau:
 * Connect and combine/ join datasets
