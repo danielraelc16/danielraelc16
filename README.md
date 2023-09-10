@@ -46,7 +46,7 @@ Here is my Portfolio as a Data Analyst, feel free to check it out!
 * Analyzing using visualization
 * Cluster Analysis
 
-### Code:
+### Python:
 1. [Bank Promotion EDA and Clustering Analysis](https://github.com/danielraelc16/danielraelc16/blob/76cd474bc67adedbfe69b550057e851133e13ef2/Revo%20Bank%20Promotion%20Dataset.ipynb)
 
 ## Dataviz using Tableau and Looker:
