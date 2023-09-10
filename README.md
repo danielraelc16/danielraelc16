@@ -26,7 +26,7 @@ Here is my Portfolio as a Data Analyst, feel free to check it out!
 * SQL Date Format; 
 * SQL Window Function
 
-### Code Example :
+### Query:
 1. [Create a query to get product category that have the most variety of SKU that being input to the system in the year 2019](https://console.cloud.google.com/bigquery?sq=178305489124:f6e96553a5e74870a4d0e848bde5d08b)
 2. [Create a query to get the lowest total order performance for the Jeans category considering completed orders and focusing on the month of shipment](https://console.cloud.google.com/bigquery?sq=178305489124:737a35e09b1643f49563aed706e54594)
 3. [Create a query to get which distribution center to which country destination had the highest total number of items sold in the year 2022](https://console.cloud.google.com/bigquery?sq=178305489124:1474ba5a869d4b99aa184dd7e046e259)
@@ -46,7 +46,7 @@ Here is my Portfolio as a Data Analyst, feel free to check it out!
 * Analyzing using visualization
 * Cluster Analysis
 
-### Code example:
+### Code:
 1. [Bank Promotion EDA and Clustering Analysis](https://github.com/danielraelc16/danielraelc16/blob/76cd474bc67adedbfe69b550057e851133e13ef2/Revo%20Bank%20Promotion%20Dataset.ipynb)
 
 ## Dataviz using Tableau and Looker:
@@ -56,7 +56,7 @@ Here is my Portfolio as a Data Analyst, feel free to check it out!
 * Calculated field
 * Interactive Dashboard
 
-### Example:
+### Dashboard:
 1. [Samba E-commerce Dashboard](https://lookerstudio.google.com/reporting/63560caa-6401-4176-a859-c55b994ea802)
 2. [Trending Youtube Video Great Britain Dashboard](https://public.tableau.com/views/TrendingYoutubeVideoGreatBritainDashboard/OverallDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
