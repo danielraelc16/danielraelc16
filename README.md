@@ -1,4 +1,5 @@
-![Copy of DSC_0326](https://github.com/danielraelc16/danielraelc16/assets/144601336/3b810ce6-724c-479a-9a7f-e1161b6fe307) # Data Analytics Portfolio by Daniel Rael Chandra Napitupulu
+![Copy of DSC_0326](https://github.com/danielraelc16/danielraelc16/assets/144601336/3b810ce6-724c-479a-9a7f-e1161b6fe307) 
+# Data Analytics Portfolio by Daniel Rael Chandra Napitupulu
 Hello, my name is Daniel Rael Chandra Napitupulu, I usually go by Daniel. I'm a Project Manager with a track record of successfully leading cross-functional teams and delivering complex projects. I'm seeking to transition into a Data Analyst role, leveraging my analytical mindset, problem-solving skills, and attention to detail. I'm proficient in data analysis tools such as Python and SQL, statistical methods, and data visualization techniques using tools like Tableau and Looker. I'm eager to contribute my adaptable skills to a dynamic data analysis team.
   
 Here is my Portfolio as a Data Analyst, feel free to check it out!
