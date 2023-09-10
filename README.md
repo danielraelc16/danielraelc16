@@ -48,7 +48,7 @@ Here is my Portfolio as a Data Analyst, feel free to check it out!
 ### Code example:
 1. [Bank Promotion EDA and Clustering Analysis](https://github.com/danielraelc16/danielraelc16/blob/76cd474bc67adedbfe69b550057e851133e13ef2/Revo%20Bank%20Promotion%20Dataset.ipynb)
 
-## Dataviz using Tableau:
+## Dataviz using Tableau and Looker:
 * Connect and combine/ join datasets
 * Data formatting
 * Visualization
@@ -56,9 +56,8 @@ Here is my Portfolio as a Data Analyst, feel free to check it out!
 * Interactive Dashboard
 
 ### Example:
-1. [Order Performance Dashboard in Brazil Region](https://public.tableau.com/app/profile/dharma.wangsa2601/viz/OrderPerformanceDataVisualization-BrazilEcommerce/OrderPerformanceDashboard?publish=yes)
-2. [Order Performance Dashboard in Brazil Region v2](https://public.tableau.com/views/W9W10_KeyAnswer_IntermediateJAN22/InteractiveDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
-3. [Netflix Movies and TV Series Overview Dashboard](https://public.tableau.com/views/TLsim_W9W10_Team5/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+1. [Samba E-commerce Dashboard](https://lookerstudio.google.com/reporting/63560caa-6401-4176-a859-c55b994ea802)
+2. [Trending Youtube Video Great Britain Dashboard](https://public.tableau.com/views/TrendingYoutubeVideoGreatBritainDashboard/OverallDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Project Based Analytics
